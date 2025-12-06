@@ -29,4 +29,6 @@ medical-qa-system/
 └── README.md                   # 说明文档
 ```
 ## 运行
+
 见scripts/run.sh 
+第一次拉取需自行生成向量数据库，使用脚本即可自动构建。
